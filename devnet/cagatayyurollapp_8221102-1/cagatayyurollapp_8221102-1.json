@@ -27,7 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/11/cagatayyurollapp_8221102-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5C7jgxCieRHhca1tC5WFNfs9wETQG2QMXZ6qkkgM3PnsARGM",
+  "validator": true
 }
